@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m an FPGA Developer working on heterogeneous computing solutions that blend CPU + FPGA acceleration for ML workloads. My focus is on building vendor-agnostic, general-purpose ML accelerators with ONNX model support, flexible operator coverage, and efficient memory handling.
+
+🔧 Current interests:
+
+* Custom FPGA architectures (Efinix Trion → Titanium, PolarFire SoC)
+* Hardware/software co-design
+
+In my free time I work on side project as well maybe i will list them on here soon.
+
 <!--
 **dpks2003/dpks2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
