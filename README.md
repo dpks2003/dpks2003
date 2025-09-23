@@ -9,7 +9,7 @@ Right now, I’m affiliated with [Vicharak](https://vicharak.in/) Computers as a
 
 * [Shrike](https://github.com/vicharak-in/shrike_fpga) – a small, open-source FPGA development board
 
-Outside of work, I spend time tinkering with different kinds of hardware and occasionally writing blogs to share my experiments and learnings.I post on twitter about it everything tho.
+Outside of work, I spend time tinkering with different kinds of hardware and occasionally writing blogs to share my experiments and learnings.
 
 - Website: <a target="_blank" href="https://lut4.com/">https://lut4.com/</a>
 - E-Mail: <a target="_blank" href="mailto:dshardan007+lut4@gmail.com">dshardan007[at]gmail[dot]com</a>
